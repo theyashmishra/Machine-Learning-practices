@@ -1,2 +1,2 @@
 # Machine-Learning-practices
-A simple implementation of machine learning in python
+This repository consist implementation of basic algorithms and projects of machine learning.
